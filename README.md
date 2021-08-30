@@ -34,7 +34,7 @@ The function basically instructs to use the data from the 'Kickstarter' sheet an
 ![image](https://user-images.githubusercontent.com/87828174/131267852-03ead31d-682a-4466-b8ed-0b88543ec554.png)
   
 ### Challenges and Difficulties encountered
-  Possible challenges that could be faced calculating the number of outcomes for each goal range. This is easily solved using the **COUNTIF** function.
+  Possible challenges that could be faced calculating the number of outcomes individually for each goal range by filtering ranges and respective outcomes. This is easily solved using the **COUNTIF** function.
   
 ## Results
 ### Results of Outcomes based on Launch date
