@@ -1,5 +1,5 @@
 # Kickstarting with Excel
-Module 1: Performing analysis on kickstarter data to uncover trends.
+Module 1: Performing analysis on kickstarter data using Excel to uncover trends.
 ## Overview of Project
 The kickstarter campaigns data set was analysed to help Louise understand how different campaigns performed in meeting their targets. How the goal amount affected the success of a campaign and how timing of the campaign also had a say in its status. Throughout the module, the given information was used to show both analytically and visually how campaigns in different categories and subcategories have been performing. The conclusion was that out of all campaigns the category Theater performed the best and the subcategory Plays was the most successful. 
 
